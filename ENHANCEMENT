@@ -14,7 +14,7 @@ Here are some **strategic enhancements** you can implement to elevate this proje
 
 ### 📦 Productization
 - **Streamlit Cloud or Hugging Face Space Deployment**
-- **Dockerize the app** for cross-platform portability
+- **Dockerize the app** for cross-platform portability 
 - Add **automated tests** for prompt consistency (via `pytest` or Streamlit testing library)
 
 ### 📊 UX Enhancements
